@@ -1,4 +1,4 @@
-# roman-numeral-converter
+# Roman Numeral Converter
 Projeto criado no curso de JavaScript da plataforma freeCodeCamp
 ## Linguagem
 JavaScript
